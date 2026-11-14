@@ -1,0 +1,230 @@
+
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sindhu",
+      "email": "sindhu@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "name": "Ananya",
+      "email": "ananya@gmail.com",
+      "password": "user123"
+    },
+    {
+      "name": "TEKI SINDHU",
+      "email": "tekisindhu20@gmail.com",
+      "password": "123456",
+      "id": "aZchx0DWFqk"
+    },
+    {
+      "name": "SINDHU",
+      "email": "sindhu@gmail.com",
+      "password": "123456",
+      "id": "huzvJA0Kouc"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Software Developer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "4-6 LPA",
+      "description": "Develop and maintain software applications.",
+      "requiredSkills": ["Java", "SQL", "OOPs", "React"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-01"
+    },
+    {
+      "id": "2",
+      "title": "Data Analyst",
+      "company": "TCS",
+      "location": "Bangalore",
+      "category": "Analytics",
+      "jobType": "Full Time",
+      "salary": "3.5-5 LPA",
+      "description": "Analyze data and generate business insights.",
+      "requiredSkills": ["SQL", "Excel", "Python", "Power BI"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-05"
+    },
+    {
+      "id": "3",
+      "title": "Frontend Developer",
+      "company": "Wipro",
+      "location": "Chennai",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "4-5 LPA",
+      "description": "Build responsive and interactive web applications.",
+      "requiredSkills": ["HTML", "CSS", "JavaScript", "React"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-07"
+    },
+    {
+      "id": "4",
+      "title": "Java Developer",
+      "company": "Capgemini",
+      "location": "Bangalore",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "4-6 LPA",
+      "description": "Develop backend applications using Java.",
+      "requiredSkills": ["Java", "SQL", "Spring Boot"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-09"
+    },
+    {
+      "id": "5",
+      "title": "Python Developer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "5-7 LPA",
+      "description": "Develop and maintain applications using Python.",
+      "requiredSkills": ["Python", "Django", "SQL", "REST API"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-10"
+    },
+    {
+      "id": "6",
+      "title": "Business Analyst",
+      "company": "Deloitte",
+      "location": "Mumbai",
+      "category": "Analytics",
+      "jobType": "Full Time",
+      "salary": "6-8 LPA",
+      "description": "Analyze business requirements and prepare reports.",
+      "requiredSkills": ["Excel", "SQL", "Power BI", "Communication"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-10"
+    },
+    {
+      "id": "7",
+      "title": "Cloud Engineer",
+      "company": "IBM",
+      "location": "Pune",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "7-9 LPA",
+      "description": "Work on cloud infrastructure and deployment.",
+      "requiredSkills": ["AWS", "Linux", "Docker", "Networking"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-11"
+    },
+    {
+      "id": "8",
+      "title": "Backend Developer",
+      "company": "Tech Mahindra",
+      "location": "Visakhapatnam",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "5-8 LPA",
+      "description": "Build and maintain server-side applications and APIs.",
+      "requiredSkills": ["Node.js", "Express", "MySQL", "JavaScript"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-11"
+    },
+    {
+      "id": "9",
+      "title": "Data Scientist",
+      "company": "Cognizant",
+      "location": "Bangalore",
+      "category": "Analytics",
+      "jobType": "Full Time",
+      "salary": "8-12 LPA",
+      "description": "Build predictive models and analyze complex datasets.",
+      "requiredSkills": ["Python", "Machine Learning", "SQL", "Statistics"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-12"
+    },
+    {
+      "id": "10",
+      "title": "Software Tester",
+      "company": "HCLTech",
+      "location": "Chennai",
+      "category": "IT",
+      "jobType": "Full Time",
+      "salary": "3-5 LPA",
+      "description": "Test software applications and identify bugs.",
+      "requiredSkills": ["Manual Testing", "Selenium", "Java", "SQL"],
+      "experience": "Fresher",
+      "status": "Open",
+      "postedDate": "2026-11-12"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "1",
+      "name": "Ananya Sharma",
+      "email": "ananya@gmail.com",
+      "phone": "9876543210",
+      "qualification": "B.Tech CSE",
+      "skills": ["Java", "SQL", "React"],
+      "experience": "Fresher",
+      "location": "Visakhapatnam",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "2",
+      "name": "Rahul Kumar",
+      "email": "rahul@gmail.com",
+      "phone": "9876543211",
+      "qualification": "B.Tech IT",
+      "skills": ["Python", "SQL", "Excel"],
+      "experience": "Fresher",
+      "location": "Hyderabad",
+      "status": "Applied"
+    },
+    {
+      "id": "3",
+      "name": "Priya Reddy",
+      "email": "priya@gmail.com",
+      "phone": "9876543212",
+      "qualification": "MCA",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "experience": "1 Year",
+      "location": "Bangalore",
+      "status": "Interview"
+    }
+  ],
+  "applications": [
+    {
+      "id": "1",
+      "candidateId": "1",
+      "jobId": "1",
+      "applicationDate": "2026-11-05",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "2",
+      "candidateId": "2",
+      "jobId": "2",
+      "applicationDate": "2026-11-06",
+      "status": "Applied"
+    },
+    {
+      "id": "3",
+      "candidateId": "3",
+      "jobId": "3",
+      "applicationDate": "2026-11-08",
+      "status": "Interview"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
